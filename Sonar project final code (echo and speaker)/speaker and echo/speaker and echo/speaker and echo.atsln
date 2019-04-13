@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "speaker and echo", "speaker and echo.cproj", "{6C1287BB-0A2F-4422-8123-1165B294E062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C1287BB-0A2F-4422-8123-1165B294E062}.Debug|AVR.ActiveCfg = Debug|AVR
+		{6C1287BB-0A2F-4422-8123-1165B294E062}.Debug|AVR.Build.0 = Debug|AVR
+		{6C1287BB-0A2F-4422-8123-1165B294E062}.Release|AVR.ActiveCfg = Release|AVR
+		{6C1287BB-0A2F-4422-8123-1165B294E062}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
